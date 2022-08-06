@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #54e2ec;
+  background-size: fixed;
+}
+body {
+  min-height: 3000px;
+  background-color: #54e2ec;
+}
+#project {
+  background-color: #54e2ec;
+}
+#about {
+  background-color: #0d87d8;
+}
+#contact {
+  background-color: #0d87d8;
+}
+section {
+  padding-top: 7rem;
+}
+#text1 {
+  font-family: "Lora", serif;
+}
+#text2 {
+  font-family: "Lora", serif;
+}
+#displayname {
+  font-family: "PT Sans", sans-serif;
+}
+#dis2 {
+  font-family: "PT Sans", sans-serif;
+}
